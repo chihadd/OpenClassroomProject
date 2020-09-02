@@ -11,6 +11,7 @@ import requests
 import pandas as pd
 from pymongo import MongoClient
 
+
 from utils.mongoDB import send_data_opininion_assurance_to_mongo
 # ------------###------------------###------------------------###-------------------------------###--------------------------
 # Il faut installer selenium --> pip install selenium
